@@ -1,0 +1,1 @@
+print("Olabilecek her sey")
